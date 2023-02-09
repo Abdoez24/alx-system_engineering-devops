@@ -10,3 +10,4 @@ Delete the file betty
 Delete the directory my_first_directory that is in the /tmp directory
 a script that changes the working directory to the previous one
 script that lists all files in current, parent and /boot directories
+a script that prints the type of the file named iamafile
