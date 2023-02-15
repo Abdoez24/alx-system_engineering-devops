@@ -1,2 +1,2 @@
 #!/bin/bash
-tr -d 'cC' < 20-hiago > 20-hiago-modified
+tr -d 'cC'
