@@ -1,2 +1,2 @@
 #!/bin/bash
-tr 'Ac' 'Ze' < 19-AZ > 19-AZ-modified
+echo Aca | tr Ac Ze
